@@ -49,4 +49,4 @@ If you find some bug/defect or if you'd like to request a new function, feel fre
 ## Credits
 
 - [Tensorflow Object detection Model](https://github.com/tensorflow/models) 
-- [Sample Dataset From Google]
+- [Sample Dataset From Google](https://google.com)
