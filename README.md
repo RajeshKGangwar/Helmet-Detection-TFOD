@@ -16,7 +16,8 @@
 
 
 ## Overview
-This is a Simple App for detecting whether a person is wearing helmet or not. The App has been Designed using Python and flask Api. The model is created by Transfer learning approach, a pretrained model as sssd_mobilenet_v1 is used for model building. The App Captures live frame from webcam/device camera and returns the value of bounding boxes with confidence score if the person is wearing the helmet.
+This is a Simple App for detecting whether a person is wearing helmet or not. The App has been Designed using Python and flask Api. The model is created by Transfer learning approach, a pretrained model as __sssd_mobilenet_v1__ is used for model building. <br>
+The App Captures live frame from webcam/device camera and returns the value of bounding boxes with confidence score if the person is wearing the helmet.
 
 
 ## Technical Aspect
@@ -44,4 +45,4 @@ If you find some bug/defect or if you'd like to request a new function, feel fre
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"></a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="open-cv" width="150" height="150"/> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="150" height="150"/>
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="150" height="150"/>
 ## Credits
-- [Tensorflow Object detection Model](https://github.com/tensorflow/models) 
+- ![Tensorflow Object detection Model](https://github.com/tensorflow/models) 
