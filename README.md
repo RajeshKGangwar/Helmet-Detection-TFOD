@@ -44,5 +44,8 @@ If you find some bug/defect or if you'd like to request a new function, feel fre
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"></a> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="open-cv" width="150" height="150"/> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="150" height="150"/>
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="150" height="150"/>
+
+
 ## Credits
+
 - ![Tensorflow Object detection Model](https://github.com/tensorflow/models) 
