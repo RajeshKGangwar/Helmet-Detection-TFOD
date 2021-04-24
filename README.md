@@ -16,8 +16,8 @@
 
 
 ## Overview
-This is a Simple App for detecting whether a person is wearing helmet or not. The App has been Designed using Python and flask Api. The model is created by Transfer learning approach, a pretrained model as __sssd_mobilenet_v1__ is used for model building. <br>
-The App Captures live frame from webcam/device camera and returns the value of bounding boxes with confidence score if the person is wearing the helmet.
+This is a simple App for detecting a person's Helmet. The App has been Designed using Python and flask Api. The model is created by Transfer learning approach, a pretrained model as __sssd_mobilenet_v1__ is used for model building. <br>
+The App Captures live frame from webcam/device camera and returns the value of bounding boxes with confidence score of the person wearing helmet.
 
 
 ## Technical Aspect
