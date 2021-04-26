@@ -22,7 +22,7 @@ The App Captures live frame from webcam/device camera and returns the value of b
 
 ## Technical Aspect
 This App is divided into two part:
-1. __app.py__ : Entry point of the App with all the initials.
+1. __app.py__ : Entry point of the App with all the initials. For fetching the Image File as "InputImage.jpg", we have used Postman for sending the POST requests.
 
 
 2. __Prediction.py__: This file gets frames per second as input and processes them to detect helmet as final result.
